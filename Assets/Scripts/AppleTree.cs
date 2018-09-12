@@ -55,6 +55,7 @@ public class AppleTree : MonoBehaviour
 
     private void FixedUpdate()
     {
+        //Changing Direction Randomly is now Time Based
         if (Random.value < chanceToChangeDirections)
         {
             speed *= -1; //Change Directions
