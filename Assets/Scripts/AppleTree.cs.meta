@@ -4,7 +4,8 @@ MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
-  - applePrefab: {instanceID: 0}
+  - applePrefab: {fileID: 1114865376637122, guid: 8d10196a896a048f394855d4f8b030c6,
+      type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
